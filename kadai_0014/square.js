@@ -1,4 +1,4 @@
 const total = (hikisu) => {
-    console.log(hikisu * 2);
+    console.log(hikisu * hikisu);
 }
-total(50)
+total(10)
